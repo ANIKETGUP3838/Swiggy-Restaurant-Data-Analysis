@@ -67,17 +67,12 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
  ┣ 📜 README.md               # Project documentation
  ┣ 📂 data/                   # Dataset (CSV)
  ┗ 📂 images/                 # Dashboard screenshots
-
+---
 ## 📈 Future Improvements  
 - Add **time-series analysis** of restaurant growth  
 - Forecast **delivery times** using ML models  
 - Sentiment analysis on **customer reviews**  
 - Automated **weekly restaurant trend reports**  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.  
 
 ---
 
