@@ -39,9 +39,8 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
 
 ---
 
-## 🛠️ Tech Stack  
-- **Data Cleaning & Processing:** Python (Pandas, NumPy) / SQL  
-- **Visualization:** Power BI / Tableau / Matplotlib / Seaborn  
+## 🛠️ Tech Stack   
+- **Visualization:** Power BI  
 - **Geospatial Analysis:** Map visualizations for city-level restaurant distribution  
 
 ---
