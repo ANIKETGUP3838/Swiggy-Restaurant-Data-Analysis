@@ -66,7 +66,7 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
  - 📊 swiggy.pbix   
  - 📜 README.md               
  - 📂 dataset                   
- - 📂 images                 
+ - 📂 [image](Screenshot 2025-09-01 125810.png)                 
 ---
 ## 📈 Future Improvements  
 - Add **time-series analysis** of restaurant growth  
