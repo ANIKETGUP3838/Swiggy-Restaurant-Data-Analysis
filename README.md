@@ -62,3 +62,25 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
 ---
 
 ## 📂 Project Structure  
+📦 Swiggy-Data-Analysis
+ ┣ 📊 Dashboard.pbix / .twbx   # Power BI / Tableau file
+ ┣ 📜 README.md               # Project documentation
+ ┣ 📂 data/                   # Dataset (CSV)
+ ┗ 📂 images/                 # Dashboard screenshots
+
+## 📈 Future Improvements  
+- Add **time-series analysis** of restaurant growth  
+- Forecast **delivery times** using ML models  
+- Sentiment analysis on **customer reviews**  
+- Automated **weekly restaurant trend reports**  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.  
+
+---
+
+## 📧 Contact  
+For queries or collaborations, reach out at:  
+**Your Name** – [LinkedIn](https://www.linkedin.com/in/aniket-90b49725a/) | [Email](aniket25287@gmail.com)  
