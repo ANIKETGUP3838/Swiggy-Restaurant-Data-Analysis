@@ -78,4 +78,4 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
 
 ## 📧 Contact  
 For queries or collaborations, reach out at:  
-**Your Name** – [LinkedIn](https://www.linkedin.com/in/aniket-90b49725a/) | [Email](aniket25287@gmail.com)  
+**Aniket** – [LinkedIn](https://www.linkedin.com/in/aniket-90b49725a/) | [Email](aniket25287@gmail.com)  
