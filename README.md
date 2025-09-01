@@ -63,10 +63,10 @@ This project provides a comprehensive analysis of Swiggy’s restaurant data usi
 
 ## 📂 Project Structure  
 📦 Swiggy-Data-Analysis
- ┣ 📊 Dashboard.pbix / .twbx   # Power BI / Tableau file
- ┣ 📜 README.md               # Project documentation
- ┣ 📂 data/                   # Dataset (CSV)
- ┗ 📂 images/                 # Dashboard screenshots
+ - 📊 swiggy.pbix   
+ - 📜 README.md               
+ - 📂 dataset                   
+ - 📂 images                 
 ---
 ## 📈 Future Improvements  
 - Add **time-series analysis** of restaurant growth  
