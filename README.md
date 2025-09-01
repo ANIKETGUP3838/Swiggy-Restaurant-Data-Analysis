@@ -1,6 +1,6 @@
 # 🍽️ Swiggy Restaurants Data Analysis  
 
-This project provides a comprehensive analysis of Swiggy’s restaurant data using **Power BI / Tableau / Python (as per your stack)**. The dashboard offers insights into restaurant distribution, pricing trends, delivery times, and customer preferences across multiple cities in India.  
+This project provides a comprehensive analysis of Swiggy’s restaurant data using **Power BI**. The dashboard offers insights into restaurant distribution, pricing trends, delivery times, and customer preferences across multiple cities in India.  
 
 ---
 
